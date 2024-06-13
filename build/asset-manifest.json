@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c84dd1db.css",
+    "main.js": "/static/js/main.dd2f1354.js",
+    "static/media/bg.png": "/static/media/bg.68f5f1a639f5898db5b5.png",
+    "static/media/tattoo4.jpg": "/static/media/tattoo4.029a2a8062de32ab3b3f.jpg",
+    "static/media/tattoo2.jpg": "/static/media/tattoo2.49c80b5156fe7b9f9092.jpg",
+    "static/media/image1.jpg": "/static/media/image1.0ebfed28e0bdf93a85ad.jpg",
+    "static/media/tattoo3.jpg": "/static/media/tattoo3.7a62830a239558f4be7e.jpg",
+    "static/media/image3.jpg": "/static/media/image3.11f23ce7528d5336e2a8.jpg",
+    "static/media/image4.jpg": "/static/media/image4.5bde068e40f520638cae.jpg",
+    "static/media/image.png": "/static/media/image.4b518de5e61cd5ea58a1.png",
+    "static/media/image2.jpg": "/static/media/image2.94da7bdf5d1a992f97fc.jpg",
+    "static/media/image5.jpg": "/static/media/image5.1e60c5fa26c25d6fdefe.jpg",
+    "static/media/image8.jpg": "/static/media/image8.28557b57b4fc590f63ee.jpg",
+    "static/media/image7.jpg": "/static/media/image7.ca0bee23002fb2d72320.jpg",
+    "static/media/image6.jpg": "/static/media/image6.10a9eb40127524e3493f.jpg",
+    "static/media/quote.svg": "/static/media/quote.b6c84129796166895505ca1a3ba52a66.svg",
+    "index.html": "/index.html",
+    "main.c84dd1db.css.map": "/static/css/main.c84dd1db.css.map",
+    "main.dd2f1354.js.map": "/static/js/main.dd2f1354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c84dd1db.css",
+    "static/js/main.dd2f1354.js"
+  ]
+}
